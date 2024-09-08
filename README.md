@@ -14,4 +14,5 @@ To run the Streamlit app, use the following command:
     ```
     streamlit run app.py
     ```
+
 It might take 2 to 3 minutes to open.
