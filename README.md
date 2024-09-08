@@ -16,3 +16,8 @@ To run the Streamlit app, use the following command:
     ```
 
 It might take 2 to 3 minutes to open.
+
+## Output
+Enter your desired movie characteristics (e.g., heartfelt romantic comedy)
+you can see output as similar as i have added in output_images.
+
